@@ -1,11 +1,11 @@
 با سلام خدمت دوستان
 
 برای دانلود کردن هر یک از فایل ها که در لیست موجود می باشد به وبسایت ما بیایید
-لینک وبسایت : 
+# لینک وبسایت برای دانلود فایل ها: 
 
 https://magicfile.ir/
 
-لینست فایل ها :
+# لیست فایل ها :
 https://magicfile.ir/product-list
 
 
@@ -17,6 +17,8 @@ https://magicfile.ir/product-list
 - JavaScript 
 - HTML
 - Python
-- Ruby
-- Go
 - Java
+- Access
+- Excel
+- B4A
+  

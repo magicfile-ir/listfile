@@ -1,0 +1,3 @@
+*.cs linguist-language=C#
+*.java linguist-language=Java
+*.py linguist-language=Python

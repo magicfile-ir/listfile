@@ -9,3 +9,14 @@ https://magicfile.ir/
 https://magicfile.ir/product-list
 
 
+
+# Languages
+- VB.NET
+- C#
+- PHP
+- JavaScript 
+- HTML
+- Python
+- Ruby
+- Go
+- Java

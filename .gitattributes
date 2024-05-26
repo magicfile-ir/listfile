@@ -1,17 +1,7 @@
 *.cs linguist-language=C#
 *.java linguist-language=Java
-*.py linguist-language=Python
 *.vb linguist-language=VB.NET
 *.cs linguist-language=C#
 *.php linguist-language=PHP
 *.js linguist-language=JavaScript
 *.html linguist-language=HTML
-*.vb linguist-language=VB.NET
-*.cs linguist-language=C#
-*.php linguist-language=PHP 
-*.js linguist-language=JavaScript
-*.html linguist-language=HTML
-*.py linguist-language=Python
-*.rb linguist-language=Ruby
-*.go linguist-language=Go
-*.java linguist-language=Java

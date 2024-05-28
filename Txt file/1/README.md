@@ -1,10 +1,10 @@
-#📥 برای دریافت دانلود اسکریپت فال حافظ بصورت html JacaScript CSS به لینک زیر بروید 👇
+#📥 برای دریافت سورس کد خبرخوان فید rss xml در ویژال بیسیک دات نت vb.nat به لینک زیر بروید 👇
 
-https://magicfile.ir/?p=2005
+https://magicfile.ir/?p=2007
 
 ##تگ های فایل
 
--[اسکریپت فال حافظ](https://magicfile.ir/product/%d8%a7%d8%b3%da%a9%d8%b1%d9%8a%d9%be%d8%aa-%d9%81%d8%a7%d9%84-%d8%ad%d8%a7%d9%81%d8%b8-%d8%a8%d8%b5%d9%88%d8%b1%d8%aa-html/) \r\n-[سورس کد فال حافظ](https://magicfile.ir/product/%d8%a7%d8%b3%da%a9%d8%b1%d9%8a%d9%be%d8%aa-%d9%81%d8%a7%d9%84-%d8%ad%d8%a7%d9%81%d8%b8-%d8%a8%d8%b5%d9%88%d8%b1%d8%aa-html/) \r\n-[نرم افزار فال حافظ](https://magicfile.ir/product/%d8%a7%d8%b3%da%a9%d8%b1%d9%8a%d9%be%d8%aa-%d9%81%d8%a7%d9%84-%d8%ad%d8%a7%d9%81%d8%b8-%d8%a8%d8%b5%d9%88%d8%b1%d8%aa-html/) \r\n-[html فال حافظ](https://magicfile.ir/product/%d8%a7%d8%b3%da%a9%d8%b1%d9%8a%d9%be%d8%aa-%d9%81%d8%a7%d9%84-%d8%ad%d8%a7%d9%81%d8%b8-%d8%a8%d8%b5%d9%88%d8%b1%d8%aa-html/) \r\n
+-[سورس پروژه خبر خوان](https://magicfile.ir/product/vb-net-rss-xml/) \n-[سورس کد خبر خوان ویژوال بیسیک](https://magicfile.ir/product/vb-net-rss-xml/) \n-[سورس خبرخوان vb.net](https://magicfile.ir/product/vb-net-rss-xml/) \n-[vb.nat rss](https://magicfile.ir/product/vb-net-rss-xml/) \n-[سورس کد خبرخواب vb.net](https://magicfile.ir/product/vb-net-rss-xml/) \n
 ✔️ در سايت فايل هاي ويژه اي براي برنامه نويسان طراحان دانشجويان و دانش آموزان قرار داده ايم از بقيه فايل سايت نيز ديدن فرماييد
 
 https://magicfile.ir
@@ -12,7 +12,7 @@ https://magicfile.ir
 
 ❇️#لينک دانلود اصلي 📥 :
 
-[دانلود اسکریپت فال حافظ بصورت html JacaScript CSS](https://magicfile.ir/product/%d8%a7%d8%b3%da%a9%d8%b1%d9%8a%d9%be%d8%aa-%d9%81%d8%a7%d9%84-%d8%ad%d8%a7%d9%81%d8%b8-%d8%a8%d8%b5%d9%88%d8%b1%d8%aa-html/) 
+[سورس کد خبرخوان فید rss xml در ویژال بیسیک دات نت vb.nat](https://magicfile.ir/product/vb-net-rss-xml/) 
 
 
 🙏با تشکر از همراهي شما🙏
